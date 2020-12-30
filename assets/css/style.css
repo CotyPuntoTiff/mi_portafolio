@@ -11,13 +11,14 @@
 .text-navbar{
     margin-left: 20px;
 }
-header{
+body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     height: 737px;
-    background-color: black;
+    background-color: rgb(51, 51, 51);
     background-image: url(../img/bg_header.jpeg);  
+    color: #ad1457;
 }
 #div_header{
     font-family: 'Press Start 2P', cursive;
