@@ -11,3 +11,28 @@
 .text-navbar{
     margin-left: 20px;
 }
+header{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 737px;
+    background-color: black;
+    background-image: url(../img/bg_header.jpeg);  
+}
+#div_header{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    padding-top: 544px;
+    padding-bottom: 110px;
+    text-align: center;
+}
+
+#hr_header{
+    background-color:#4b0268;
+    height: 3px; 
+    width: 300px;
+}
+.header-text{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 25px;
+}
