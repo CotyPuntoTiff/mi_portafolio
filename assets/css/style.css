@@ -6,48 +6,34 @@
 .navbar{
     height: 60px;
     background:#680747;
-    opacity: 0.9;
 }
 .text-navbar{
     margin-left: 20px;
 }
-body{
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 737px;
-    background-color: rgb(51, 51, 51);
-    background-image: url(../img/bg_header.jpeg);  
-    color: #ad1457;
-    font-family: 'Ubuntu Mono', monospace;
-    font-size: 17px;
-}
-.titulo{
+.logo-font{
     font-family: 'Press Start 2P', cursive;
-    font-size: 40px;
-}
-#div_header{
-    font-family: 'Press Start 2P', cursive;
-    color: white;
-    padding-top: 544px;
-    padding-bottom: 110px;
-    text-align: center;
 }
 
+body{
+    font-family: 'Ubuntu Mono', monospace;
+    color: #ad1457;
+}
+header{
+    background-color:rgb(51, 51, 51);
+    background-image: url(../img/bg_header.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 737px;
+    text-align: center;
+    padding-top: 560px;
+}
 #hr_header{
     background-color:#4b0268;
     height: 3px; 
     width: 300px;
+    border: 2px;
+    margin: 0px auto;
 }
-.header-text{
-    font-family: 'Ubuntu Mono', monospace;
-    font-size: 25px;
-}
-.carouselImg{
-    height:auto ;
-    width: auto;
-}
-button{
-    width: auto;
-    height: 50px;
+#cardStyle{
+    background-color:#680747 ;
 }
