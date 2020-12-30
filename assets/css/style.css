@@ -1,0 +1,13 @@
+.heart svg{
+    width: 30px;
+    height: 30px;
+}
+
+.navbar{
+    height: 60px;
+    background:#680747;
+    opacity: 0.9;
+}
+.text-navbar{
+    margin-left: 20px;
+}
