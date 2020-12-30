@@ -43,7 +43,11 @@ body{
     font-family: 'Ubuntu Mono', monospace;
     font-size: 25px;
 }
-.carousel-inner{
-    width: 500px;
-    height: 500px;
+.carouselImg{
+    height:auto ;
+    width: auto;
+}
+button{
+    width: auto;
+    height: 50px;
 }
