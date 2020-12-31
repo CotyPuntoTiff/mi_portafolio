@@ -90,6 +90,17 @@ footer {
 .iconosF{
     color: white;
     text-decoration: none;
-    outline: none !important ;
 
+}
+.iconosF:hover{
+    color: white;
+    text-decoration: none;
+}
+.iconosF:active{
+    color: white;
+    text-decoration: none;
+}
+.iconosF:visited{
+    color: white;
+    text-decoration: none;
 }
