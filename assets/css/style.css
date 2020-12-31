@@ -50,7 +50,7 @@ header {
 
 #carouselImg img {
     height: 600px;
-
+    
 }
 
 .secCont {
@@ -90,7 +90,7 @@ footer {
 .iconosF{
     color: white;
     text-decoration: none;
-
+    
 }
 .iconosF:hover{
     color: white;
@@ -103,4 +103,18 @@ footer {
 .iconosF:visited{
     color: white;
     text-decoration: none;
+}
+@media (max-width: 600px){
+    .logo-font{
+        font-size: 8px;
+    }
+    .contacto{
+        font-size: 8px;
+        padding: 20px 30px;;
+    }
+}
+@media (max-width: 1000px){
+    .let{
+        font-size: 8px;
+    }
 }
